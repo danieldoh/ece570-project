@@ -4,6 +4,8 @@ Understanding Human-Object Interaction (HOI) in dynamic scenes is critical for a
 
 
 - To run the code, download "ece570_hoi.ipynb" and open it with Google Colab.
+
+- For 'requirements.txt', I have used Google Colab since I do not have my own GPU. Therefore, all the libraries and modules needed are listed in "ece570_hoi.ipynb". 
   
 - To use the dataset, download "dataset.zip" from the link. (https://drive.google.com/file/d/1PdSlx4_Tn684JWnjGeCNkVJIG3ZbcdD5/view?usp=drive_link)
 
