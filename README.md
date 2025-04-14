@@ -7,4 +7,4 @@ Understanding Human-Object Interaction (HOI) in dynamic scenes is critical for a
   
 - To use the dataset, download "dataset.zip" from the link. (https://drive.google.com/file/d/1PdSlx4_Tn684JWnjGeCNkVJIG3ZbcdD5/view?usp=drive_link)
 
-- To access the demo video, use the link below. (https://drive.google.com/file/d/1qkfWCfm0YCpzv0aK9fA0hdlNuRi8Kvag/view?usp=sharing)
+- To access the demo video, use the link. (https://drive.google.com/file/d/1qkfWCfm0YCpzv0aK9fA0hdlNuRi8Kvag/view?usp=sharing)
